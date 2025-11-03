@@ -55,8 +55,6 @@ Test Case: Automate Techlistic Practice Form
 
 | Step | Action                                 |
 
-| ---- | -------------------------------------- |
-
 | 1    |  Open Techlistic Practice Form          |
 
 | 2    |  Enter first name and last name         |
