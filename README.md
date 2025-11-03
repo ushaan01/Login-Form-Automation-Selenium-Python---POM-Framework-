@@ -34,6 +34,7 @@ HTML Reporting using pytest-html
 ├── requirements.txt         # Dependencies
 
 
+
 🧠 Technologies Used
 
 | Tool                        | Purpose                        |
@@ -47,6 +48,7 @@ HTML Reporting using pytest-html
 | **PyTest-HTML**               | Test reporting                 |
 
 | **Page Object Model (POM)**   | Test structure and maintenance |
+
 
 
 ✅ Test Scenario
@@ -72,6 +74,7 @@ Test Case: Automate Techlistic Practice Form
 | 8    |  Submit form                            |
 
 | 9    |  Capture screenshot                     |
+
 
 
 🧑‍💻 Author
