@@ -31,10 +31,8 @@ HTML Reporting using pytest-html
 
 │   └── report2.html         # Passed Test Report
 
-├── screenshots/             # Folder for screenshots
-
 ├── requirements.txt         # Dependencies
 
-└── README.md                # Project documentation
+
 
 
