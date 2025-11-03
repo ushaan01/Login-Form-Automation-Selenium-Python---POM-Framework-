@@ -73,7 +73,6 @@ Test Case: Automate Techlistic Practice Form
 
 | 8    |  Submit form                            |
 
-| 9    |  Capture screenshot                     |
 
 
 
