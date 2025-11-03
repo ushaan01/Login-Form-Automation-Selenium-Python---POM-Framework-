@@ -5,6 +5,7 @@ This project automates the Techlistic Selenium Practice Form using Selenium WebD
 
 It demonstrates data entry, interaction with different form elements, and test result reporting with an HTML report.
 
+
 🧩 Features
 
 Page Object Model (POM) structure for better maintainability
@@ -12,6 +13,7 @@ Page Object Model (POM) structure for better maintainability
 PyTest framework for test execution
 
 HTML Reporting using pytest-html
+
 
 🏗️ Project Structure
 
