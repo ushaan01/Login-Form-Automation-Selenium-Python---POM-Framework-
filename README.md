@@ -38,17 +38,15 @@ HTML Reporting using pytest-html
 
 | Tool                        | Purpose                        |
 
-| --------------------------- | ------------------------------ |
+| **Python**                    | Programming language           |
 
-| **Python**                  | Programming language           |
+| **Selenium WebDriver**        | Browser automation             |
 
-| **Selenium WebDriver**      | Browser automation             |
+| **PyTest**                    | Test execution framework       |
 
-| **PyTest**                  | Test execution framework       |
+| **PyTest-HTML**               | Test reporting                 |
 
-| **PyTest-HTML**             | Test reporting                 |
-
-| **Page Object Model (POM)** | Test structure and maintenance |
+| **Page Object Model (POM)**   | Test structure and maintenance |
 
 
 ✅ Test Scenario
@@ -59,23 +57,23 @@ Test Case: Automate Techlistic Practice Form
 
 | ---- | -------------------------------------- |
 
-| 1    | Open Techlistic Practice Form          |
+| 1    |  Open Techlistic Practice Form          |
 
-| 2    | Enter first name and last name         |
+| 2    |  Enter first name and last name         |
 
-| 3    | Select gender and years of experience  |
+| 3    |  Select gender and years of experience  |
 
-| 4    | Enter date                             |
+| 4    |  Enter date                             |
 
-| 5    | Select profession and automation tools |
+| 5    |  Select profession and automation tools |
 
-| 6    | Choose continent and commands          |
+| 6    |  Choose continent and commands          |
 
-| 7    | Upload image                           |
+| 7    |  Upload image                           |
 
-| 8    | Submit form                            |
+| 8    |  Submit form                            |
 
-| 9    | Capture screenshot                     |
+| 9    |  Capture screenshot                     |
 
 
 🧑‍💻 Author
