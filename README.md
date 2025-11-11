@@ -80,6 +80,8 @@ Test Case: Automate Techlistic Practice Form
 
 Usha Nazare
 
+| Project Type           | Practice Project  |
+
 Automation Tester | Python + Selenium Enthusiast
 
 
