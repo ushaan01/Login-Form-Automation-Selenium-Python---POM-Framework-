@@ -12,7 +12,9 @@ Page Object Model (POM) structure for better maintainability
 
 PyTest framework for test execution
 
-HTML Reporting using pytest-html
+pytest-html for report generation  
+
+Data-driven test support
 
 
 🏗️ Project Structure
@@ -73,7 +75,31 @@ Test Case: Automate Techlistic Practice Form
 
 | 8    |  Submit form                            |
 
+🚀 How to Run the Project
 
+Follow the steps below to set up and execute the automation tests:
+
+ 1️⃣ Clone the Repository
+
+git clone https://github.com/ushaan01/Techlistic-Login-Form-Automation-POM-Project.git
+
+2️⃣ Navigate to the Project Folder
+
+cd Techlistic-Login-Form-Automation-POM-Project
+
+3️⃣ Install Required Dependencies
+
+pip install -r requirements.txt
+
+4️⃣ Run the Tests
+
+pytest
+
+pytest --html=reports/report.html --self-contained-html
+
+5️⃣ View the Report
+
+reports/report.html
 
 
 🧑‍💻 Author
